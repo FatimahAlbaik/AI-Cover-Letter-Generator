@@ -1,0 +1,5 @@
+{
+  "name": "AI Cover Letter Generator",
+  "description": "An intelligent assistant that uses your CV to generate tailored cover letters for job applications based on a job description.",
+  "requestFramePermissions": []
+}
